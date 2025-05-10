@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Dark Mode styling */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.navbar-dark.bg-dark {
+    background-color: #333333;
+}
+
+/* Responsive images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Additional custom styles can be added here */
